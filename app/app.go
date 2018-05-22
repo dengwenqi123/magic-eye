@@ -9,10 +9,10 @@ import (
 	cmn "github.com/tendermint/tmlibs/common"
 	dbm "github.com/tendermint/tmlibs/db"
 	"github.com/tendermint/tmlibs/log"
+	"github.com/cosmos/cosmos-sdk/x/auth"
 
 	"encoding/json"
-	"github.com/dengwenqi123/magic-eye/mgycoin/types"
-	"github.com/dengwenqi123/magic-eye/x/auth"
+	"github.com/dengwenqi123/magic-eye/types"
 )
 
 const (
